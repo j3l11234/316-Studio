@@ -26,3 +26,6 @@ HTML+CSS基础课程(10h):<br>[http://www.imooc.com/learn/9](http://www.imooc.co
 如何用CSS进行网页布局:<br>[http://www.imooc.com/learn/57](http://www.imooc.com/learn/57)
 
 玩转Bootstrap（基础）(10h):<br>[http://www.imooc.com/learn/141](http://www.imooc.com/learn/141)
+
+##作业
+根据[ order.csv](./order.csv)里的数据，创建一个表格并显示出来
