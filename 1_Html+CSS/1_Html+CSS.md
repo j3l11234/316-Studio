@@ -30,8 +30,8 @@ HTML+CSS基础课程(10h):<br>[http://www.imooc.com/learn/9](http://www.imooc.co
 ##作业
 参考上面的学习网站，完成以下作业：
 
-* 根据[ order.csv](./order.csv)里的数据，创建一个表格并显示出来
+* 根据 [order.csv](./order.csv) 里的数据，创建一个表格并显示出来
 
-* 根据 [学活页面](http://202.112.159.251/hdzx_new/Order/index.shtml)里的提交表单，自己写一个出来
+* 根据 [学活页面](http://202.112.159.251/hdzx_new/Order/index.shtml) 里的提交表单，参考 [form.html](./form.html)，自己写一个出来。
 
 两个作业都生成独立的html文件
